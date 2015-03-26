@@ -1,0 +1,10 @@
+利用likelihood ratio 来判别是否为native speaker
+直接从raw数据到得到结果                 
+执行下面的代码：
+python sysStep1.py
+python sysStep2.py
+
+****************************注意*****************
+需要输入绝对地址
+
+
